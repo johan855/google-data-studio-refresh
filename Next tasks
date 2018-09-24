@@ -1,0 +1,7 @@
+1) Assert links on each step
+2) Use beautiful soup in case website changes to detect ID's
+3) Exit script with correct errors, like (Wrong password, etc...)
+4) Add logger
+5) use all cases for the refresh button, it fails sometimes since the element cannot be found.
+6) Add authentication confirmation without the need of a smartphone
+7) Add args
